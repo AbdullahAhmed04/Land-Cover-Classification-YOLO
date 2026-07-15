@@ -6,7 +6,7 @@ Instance segmentation of satellite imagery using a custom-trained YOLOv8-seg mod
  
 ---
 ## App Preview
-![Gradio App](app-screenshot.PNG)
+![Gradio App](app_screenshot.PNG)
 
 ## Results
  

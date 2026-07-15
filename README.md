@@ -5,7 +5,9 @@ Instance segmentation of satellite imagery using a custom-trained YOLOv8-seg mod
 > A semantic segmentation approach to the same problem is available at [Land-Cover-Classification](https://github.com/AbdullahAhmed04/Land-Cover-Classification).
  
 ---
- 
+## App Preview
+![Gradio App](app_screenshot.PNG)
+
 ## Results
  
 **Best experiment: E1 (augmentation-enhanced YOLOv8s-seg)**
